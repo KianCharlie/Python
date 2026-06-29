@@ -1,7 +1,7 @@
 # Login system(V1)
 
 """
- this one of my first programs well the first program i add to github
+ this one of my first programs , well the first program i add to github
 
  WHAT I LEARNED:
   - I got better at understanding while loops
