@@ -104,5 +104,5 @@ password = name[0].upper() + surname[-1].upper() + year[2:4] + name[1:length_nam
 
 print(password)
 time.sleep(4)
-exit()
+exit
 
