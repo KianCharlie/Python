@@ -104,5 +104,8 @@ password = name[0].upper() + surname[-1].upper() + year[2:4] + name[1:length_nam
 
 print(password)
 
+input("Press ENTER to exit the program\n")
+exit
+
 
 
