@@ -103,16 +103,9 @@ length_name = len(name)
 password = name[0].upper() + surname[-1].upper() + year[2:4] + name[1:length_name] + year[0:2] + str(random.randint(1,1000)) + random.choice("!@#$%^&*") + surname[2:len(surname)]
 
 print(password)
-<<<<<<< HEAD
 
-input("Press ENTER to exit the program\n")
-exit
-
-
-=======
 time.sleep(3)
 print("Press ENTER to exit...\n")
 time.sleep(2)
-exit
->>>>>>> c9d708d95067c6233d473af256d9b9f2bee566f8
+exit()
 
