@@ -103,6 +103,7 @@ length_name = len(name)
 password = name[0].upper() + surname[-1].upper() + year[2:4] + name[1:length_name] + year[0:2] + str(random.randint(1,1000)) + random.choice("!@#$%^&*") + surname[2:len(surname)]
 
 print(password)
-time.sleep(4)
+time.sleep(1)
+print("Press ENTER to exit...\n")
 exit
 
